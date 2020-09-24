@@ -1,0 +1,3 @@
+GRANT ALL PRIVILEGES ON test_userData.* TO 'root'@'%';
+
+FLUSH PRIVILEGES;
