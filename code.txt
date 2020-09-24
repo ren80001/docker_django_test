@@ -6,3 +6,6 @@ sudo lsof -i -P | grep "LISTEN"
 
 #これで起動しているmysqlを削除
 sudo kill <killしたいportのPID>
+
+#参照サイト
+https://qiita.com/kenkono/items/6221ad12670d1ae8b1dd
